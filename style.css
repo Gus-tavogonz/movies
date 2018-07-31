@@ -1,0 +1,10 @@
+.item{
+    position: relative;
+    align-content: center;
+    float: left;
+    margin: 2px;
+}
+
+.item img{
+    height: 300px;
+}
